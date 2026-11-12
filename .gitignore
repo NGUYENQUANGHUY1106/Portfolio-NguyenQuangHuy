@@ -1,0 +1,5 @@
+node_modules/
+test-results/
+.openai/
+*.tar.gz
+*.tgz
